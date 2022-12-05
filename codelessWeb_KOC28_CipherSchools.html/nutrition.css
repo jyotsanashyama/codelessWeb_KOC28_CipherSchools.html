@@ -1,0 +1,29 @@
+body{
+    background-image: url(back_image4.jpg);
+    background-size: cover;
+}
+
+h1{
+    color: goldenrod;
+    font-family: cursive;
+}
+h2{
+    color: beige;
+}
+h3{
+    color: antiquewhite;
+}
+.head1{
+    color: #ec4141;
+    font-family: monospace;
+}
+
+.t1{
+    color: bisque;
+    font-family:sans-serif;
+}
+
+.t2{
+    color: #ec4141;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

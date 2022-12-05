@@ -1,0 +1,50 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: blanchedalmond;
+}
+
+.s1{
+    color:darkcyan;
+}
+
+.about{
+    background: url(logo.jpg);
+    background-repeat: no-repeat;
+    background-size: 55%;
+    background-color: burlywood;
+    overflow: hidden;
+    padding: 100px 0;
+}
+
+.inner-section{
+    width: 55%;
+    float: right;
+    background-color: rosybrown;
+    padding: 140px;
+    box-shadow: 12px 12px 8px;
+    color:crimson;
+}
+
+.inner-section h1{
+    margin-bottom: 30px;
+    font-size: 30px;
+    font-weight: 900;
+}
+
+.text{
+    font-size: 20px;
+    color: black;
+    line-height: 30px;
+    text-align: justify;
+    margin-bottom: 40px;
+}
+

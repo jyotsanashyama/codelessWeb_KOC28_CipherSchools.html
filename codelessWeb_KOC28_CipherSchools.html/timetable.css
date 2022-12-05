@@ -1,0 +1,52 @@
+body{
+    background:black;
+    background-size: cover;
+   
+}
+
+
+.h1{
+    font-family: cursive;
+    color:darkorange;
+    text-align: center;
+    letter-spacing: 10px;
+}
+
+.table{
+    text-align: center;
+    border: 2px solid goldenrod ;
+    position: relative;
+    padding: 20px;
+    margin-top: 10vh;
+    margin-left: 80vh;
+}
+
+.t1{
+   background-color:#ec4141; 
+   color: aliceblue;
+   padding-left: 500px;
+}
+
+.tr{
+    font-family: monospace;
+    font-size: 15px;
+    color: aliceblue;
+}
+
+.d1{
+    text-align: center;
+}
+
+
+.s1{
+    color: aqua;
+}
+.s2{
+    color: burlywood;
+}
+.s3{
+    color: darkkhaki;
+}
+.s4{
+    color: darksalmon;
+}
